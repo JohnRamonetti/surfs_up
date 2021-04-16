@@ -6,8 +6,8 @@ Module 9 - SQLite, SQLAlchemy, Flask
 ### Purpose:
 
 ## RESOURCES
-  - Source Date:
-  - Software: 
+  - Source Date: hawaii.sqlite
+  - Software: SQLite, SQLAlchemy, Flask
 
 ## RESULTS
 
