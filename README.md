@@ -9,7 +9,8 @@
   - Software: SQLite, SQLAlchemy, Flask
 
 ## RESULTS
-- Average temperature statistics were prepared for (June Temps)[Resources\June_Temps.png] and (December Temps)[Resources\December_Temps.png].
+- Average temperature statistics were prepared for [June Temps](Resources\June_Temps.png) and [December Temps](Resources\December_Temps.png)
+
     - The average temperature in June (75°) is about 4 degrees warmer than the average temperature December (71°).
     - There is slightly more spread in the December temperatures (s.d. of 3.75° for December versus s.d. of 3.26° for June), meaning there is more variability/ less consistency in December temperatures.
     - The minimum temperatures observed in June (64°) are considerably higher than those observed in December (56°).
